@@ -1,0 +1,7 @@
+name = "sight-links"
+compatibility_date = "2026-02-21"
+
+[assets]
+directory = "."
+include = ["index.html"]
+not_found_handling = "single-page-application"
